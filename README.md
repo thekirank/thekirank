@@ -30,27 +30,7 @@ My interests include backend development, REST API design, modern web technologi
 * NPTEL – Introduction to Machine Learning
 * Google Data Analytics Professional Certificate
 
----
 
-## Projects
-
-### Project Name 1
-
-Brief description of the project, technologies used, and key features.
-
-**Tech Stack:** Java, Spring Boot, React.js, MySQL
-
-### Project Name 2
-
-Brief description of the project, technologies used, and key features.
-
-**Tech Stack:** Java, Spring Boot, React.js, MySQL
-
-### Project Name 3
-
-Brief description of the project, technologies used, and key features.
-
-**Tech Stack:** Java, Spring Boot, React.js, MySQL
 
 ---
 ## Contact
