@@ -8,7 +8,7 @@ My interests include backend development, REST API design, modern web technologi
 
 ---
 
-## About Me
+## More About Me
 
 * 🎓 Bachelor of Technology (ECE), 2025
 * 💻 Java Full Stack Developer
