@@ -1,4 +1,4 @@
-# Hi, I'm Kiran! 👋
+## Hi, I'm Kiran! 👋
 
 <img width="1983" height="623" alt="github banner" src="https://github.com/user-attachments/assets/46ac64a8-aa29-412f-b9fb-abb259a90bd5" />
 
@@ -16,7 +16,7 @@ My interests include backend development, REST API design, modern web technologi
 * 🤖 Exploring AI integration in web applications
 * 📍 Hyderabad, India
 * 📫 Email: **[kurubakiran1809@gmail.com](mailto:kurubakiran1809@gmail.com)**
-* 💼 LinkedIn: https://linkedin.com/in/thekirank
+* 💼 LinkedIn: **https://linkedin.com/in/thekirank**
 
 ---
 
@@ -36,5 +36,4 @@ My interests include backend development, REST API design, modern web technologi
 ## Contact
 
 * Email: **[kurubakiran1809@gmail.com](mailto:kurubakiran1809@gmail.com)**
-* GitHub: **github.com/thekirank**
-* LinkedIn: https://linkedin.com/in/thekirank
+* LinkedIn: **https://linkedin.com/in/thekirank**
