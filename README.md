@@ -1,5 +1,6 @@
 ## Hii, I'm Kiran👋
-<img width="1983" height="793" alt="ChatGPT Image Jun 10, 2026, 11_21_52 PM" src="https://github.com/user-attachments/assets/789ab033-5f6f-4e63-8021-c3aa9f7ee64c" />
+
+<img width="1983" height="623" alt="github banner" src="https://github.com/user-attachments/assets/46ac64a8-aa29-412f-b9fb-abb259a90bd5" />
 
 I am a Java Full Stack Developer and 2025 B.Tech graduate with experience building scalable web applications using Java, Spring Boot, React.js, MySQL, JavaScript, HTML, and CSS.
 
